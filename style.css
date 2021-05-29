@@ -5,6 +5,12 @@ body{
     background: #fff;
     color: #202124;
 }
+
+#sign-in{
+    height:150px;
+    width:150px;
+    
+}
 .navbar{
     display:grid; 
     grid-template-columns:500px 1fr 500px;
